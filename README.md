@@ -1,12 +1,12 @@
-# Привет, меня зовут Никита!
+# Hi, my name is Nikita!
 
 ---
 
-### 👨‍💻 Обо мне:
+### 👨‍💻 About me:
 
 
 ---
-### 🤝 Социальные сети:
+### 🤝 Social networks:
 
   <div id="badges">
     <a href="https://wa.me/79119035800" target="_blank">
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -46,7 +46,7 @@
 ---
 
 
-### 📁 Тестовая документация:
+### 📁 Test documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -59,7 +59,7 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -68,8 +68,9 @@
 
 
 ---
-### 💾 Работа с данными:
+### 💾 Database:
 
 <div>
-  <img src="https://static-00.iconduck.com/assets.00/database-sql-icon-917x1024-86yb52yu.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/database-sql-icon-917x1024-86yb52yu.png" title="sql" alt="sql" width="40" height="40"/>&nbsp
 </div>
+
