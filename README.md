@@ -19,6 +19,33 @@
 
 ---
 
+### ✏️ Languages and Tools:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="robotframework" alt="robotframework" width="40" height="40"/>&nbsp
+  <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" title="chatgpt" alt="chatgpt" width="40" height="40"/>&nbsp
+</div>
+
+
+---
+
+### 🛠 Тестирование веб-приложений:
+
+<div>
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
+
+</div>
+
+---
+
+
 ### 📁 Тестовая документация:
 
 <div>
@@ -32,16 +59,6 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
-
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
-</div>
-
----
-
 ### 📱 Тестирование мобильных приложений:
 
 <div>
@@ -51,24 +68,8 @@
 
 
 ---
-
 ### 💾 Работа с данными:
 
 <div>
   <img src="https://static-00.iconduck.com/assets.00/database-sql-icon-917x1024-86yb52yu.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
-
----
-
-### ✏️ Languages and Tools:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="robotframework" alt="robotframework" width="40" height="40"/>&nbsp
-  <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" title="chatgpt" alt="chatgpt" width="40" height="40"/>&nbsp
-</div>
-
