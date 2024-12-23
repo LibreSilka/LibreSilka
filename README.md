@@ -10,7 +10,7 @@
 
   <div id="badges">
     <a href="https://wa.me/79119035800" target="_blank">
-      <img src="C:\Users\hrobo\Downloads\logo.png" width="40" height="40" alt="whatsapp" />
+      <img src="https://static-00.iconduck.com/assets.00/whatsapp-icon-1977x2048-6lcnmyml.png" width="40" height="40" alt="whatsapp" />
     </a>
     <a href="https://t.me/nikita9607" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
