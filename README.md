@@ -21,34 +21,34 @@
 
 ### ✏️ Languages and Tools:
 
-<div class="icon-container">
-  <div class="icon">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40">
-    <span class="tooltip">Git</span>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
+    <span>Git</span>
   </div>
-  <div class="icon">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40">
-    <span class="tooltip">PyCharm</span>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" title="PyCharm" alt="pycharm" width="40" height="40"/>
+    <span>PyCharm</span>
   </div>
-  <div class="icon">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40">
-    <span class="tooltip">Python</span>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="python" width="40" height="40"/>
+    <span>Python</span>
   </div>
-  <div class="icon">
-    <img src="https://selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40">
-    <span class="tooltip">Selenium</span>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="selenium" width="40" height="40"/>
+    <span>Selenium</span>
   </div>
-  <div class="icon">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40">
-    <span class="tooltip">PyTest</span>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="Pytest" alt="pytest" width="40" height="40"/>
+    <span>Pytest</span>
   </div>
-  <div class="icon">
-    <img src="https://www.svgrepo.com/show/374049/robotframework.svg" alt="robotframework" width="40" height="40">
-    <span class="tooltip">Robot Framework</span>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="Robot Framework" alt="robotframework" width="40" height="40"/>
+    <span>Robot Framework</span>
   </div>
-  <div class="icon">
-    <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" alt="chatgpt" width="40" height="40">
-    <span class="tooltip">ChatGPT</span>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" title="ChatGPT" alt="chatgpt" width="40" height="40"/>
+    <span>ChatGPT</span>
   </div>
 </div>
 
@@ -57,11 +57,19 @@
 
 ### 🛠 Web testing:
 
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
+    <span>DEVTools</span>
+  </div>  
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+    <span>Postman</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
+    <span>Swagger</span>
+  </div>
 </div>
 
 ---
@@ -69,13 +77,31 @@
 
 ### 📁 Test documentation:
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdquFCvcqtvGr7hy13gMFHLLcNaX32FOvXQ&s" title="allure" alt="allure" width="40" height="40"/>&nbsp
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+    <span>Jira</span>
+  </div>  
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+    <span>Youtrack</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+    <span>TestIT</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
+    <span>Qase</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+    <span>Figma</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdquFCvcqtvGr7hy13gMFHLLcNaX32FOvXQ&s" title="allure" alt="allure" width="40" height="40"/>&nbsp
+    <span>Allure</span>
+  </div>
 </div>
 
 ---
