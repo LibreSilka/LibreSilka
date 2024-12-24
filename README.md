@@ -21,15 +21,35 @@
 
 ### ✏️ Languages and Tools:
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="robotframework" alt="robotframework" width="40" height="40"/>&nbsp
-  <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" title="chatgpt" alt="chatgpt" width="40" height="40"/>&nbsp
-  <span class="tooltip">ChatGPT</span>
+<div class="icon-container">
+  <div class="icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40">
+    <span class="tooltip">Git</span>
+  </div>
+  <div class="icon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40">
+    <span class="tooltip">PyCharm</span>
+  </div>
+  <div class="icon">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40">
+    <span class="tooltip">Python</span>
+  </div>
+  <div class="icon">
+    <img src="https://selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40">
+    <span class="tooltip">Selenium</span>
+  </div>
+  <div class="icon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40">
+    <span class="tooltip">PyTest</span>
+  </div>
+  <div class="icon">
+    <img src="https://www.svgrepo.com/show/374049/robotframework.svg" alt="robotframework" width="40" height="40">
+    <span class="tooltip">Robot Framework</span>
+  </div>
+  <div class="icon">
+    <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" alt="chatgpt" width="40" height="40">
+    <span class="tooltip">ChatGPT</span>
+  </div>
 </div>
 
 
