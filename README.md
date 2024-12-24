@@ -74,4 +74,6 @@
   <img src="https://static-00.iconduck.com/assets.00/database-sql-icon-917x1024-86yb52yu.png" title="sql" alt="sql" width="40" height="40"/>&nbsp
 </div>
 
+---
+
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=LibreSilka&show_icons=true&theme=radical)
