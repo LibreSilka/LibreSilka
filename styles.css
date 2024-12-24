@@ -1,0 +1,30 @@
+.icon-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    position: relative;
+}
+
+.icon {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip {
+    display: none;
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 4px;
+    white-space: nowrap;
+    z-index: 100;
+}
+
+.icon:hover .tooltip {
+    display: block;
+}
