@@ -29,6 +29,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="robotframework" alt="robotframework" width="40" height="40"/>&nbsp
   <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" title="chatgpt" alt="chatgpt" width="40" height="40"/>&nbsp
+  <span class="tooltip">ChatGPT</span>
 </div>
 
 
