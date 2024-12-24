@@ -25,6 +25,8 @@
   <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
     <span>Git</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" title="PyCharm" alt="pycharm" width="40" height="40"/>
+    <span>PyCharm</span>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" title="PyCharm" alt="pycharm" width="40" height="40"/>
