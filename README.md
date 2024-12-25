@@ -29,14 +29,14 @@
     <span>PyCharm</span>
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="python" width="40" height="40"/>
     <span>Python</span>
-    <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="selenium" width="40" height="40"/>
-    <span>Selenium</span>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="Pytest" alt="pytest" width="40" height="40"/>
-    <span>Pytest</span>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" title="PyCharm" alt="pycharm" width="40" height="40"/>
-    <span>PyCharm</span>
-    <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="Robot Framework" alt="robotframework" width="40" height="40"/>
-    <span>Robot Framework</span>
+    <a href="https://github.com/LibreSilka/selenium_1st" target="_blank">
+        <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="selenium" width="40" height="40"/>
+        <span>Selenium</span>
+    </a>
+    <a href="https://github.com/LibreSilka/selenium_1st" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="Pytest" alt="pytest" width="40" height="40"/>
+        <span>Pytest</span>
+    </a>
     <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" title="ChatGPT" alt="chatgpt" width="40" height="40"/>
     <span>ChatGPT</span>
   </div>
@@ -76,15 +76,6 @@
   <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
     <span>Youtrack</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
-    <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
-    <span>TestIT</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
-    <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-    <span>Qase</span>
-  </div>
   <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
     <span>Figma</span>
@@ -101,7 +92,11 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <span>Android Studio</span>  
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <span>Charles</span>  
+  <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="Robot Framework" alt="robotframework" width="40" height="40"/>
+  <span>Robot Framework</span>
 </div>
 
 
