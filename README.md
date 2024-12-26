@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About me:
-#### I'm begginer QA engineer and amateur developer. Specialize in the cryptocurrency market, code trading bots and trading advisor.
+#### I'm begginer QA engineer and amateur developer. Specialize in the cryptocurrency market, code trading bots and trading advisor. I actively use LLM in my developments. and I concentrate more on the creative approach.
 
 ---
 ### 🤝 Social networks:
