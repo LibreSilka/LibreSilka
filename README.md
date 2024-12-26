@@ -54,12 +54,16 @@
     <span>DEVTools</span>
   </div>  
   <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
-    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-    <span>Postman</span>
+    <a href="https://github.com/LibreSilka/postman_collections" target="_blank">
+        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+        <span>Postman</span>
+    </a>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
-    <img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
-    <span>Swagger</span>
+    <a href="https://github.com/LibreSilka/postman_collections" target="_blank">
+        <img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
+        <span>Swagger</span>
+    </a>
   </div>
 </div>
 
