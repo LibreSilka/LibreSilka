@@ -1,10 +1,13 @@
 <div>
-    <img src="https://github.com/LibreSilka/pythonProject3/blob/master/image_fx_%20(1).jpg"/>
+    <a href="https://github.com/LibreSilka" target="_blank">
+        <img src="https://github.com/LibreSilka/pythonProject3/blob/master/image_fx_%20(1).jpg"/>
+    </a>
 </div>
+
 ---
 
 ### 👨‍💻 About me:
-
+I'm begginer QA engineer and amateur developer. Specialize in the cryptocurrency market, code trading bots and trading advisor.
 
 ---
 ### 🤝 Social networks:
