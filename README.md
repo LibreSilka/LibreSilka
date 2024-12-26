@@ -52,14 +52,10 @@
   <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
     <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
     <span>DEVTools</span>
-  </div>  
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
     <a href="https://github.com/LibreSilka/postman_collections" target="_blank">
         <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
         <span>Postman</span>
     </a>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px; background-color: #d4d4d4; border-radius: 10px; padding: 10px; text-align: center; color: #000000;">
     <a href="https://github.com/LibreSilka/postman_collections" target="_blank">
         <img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
         <span>Swagger</span>
