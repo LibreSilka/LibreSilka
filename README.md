@@ -1,4 +1,3 @@
-# Hi, my name is Nikita!
 <div>
     <img src="https://github.com/LibreSilka/pythonProject3/blob/master/image_fx_%20(1).jpg"/>
 </div>
