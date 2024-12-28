@@ -92,12 +92,16 @@
 ### 📱 Mobile testing:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <span>Android Studio</span>  
+  <a href="https://github.com/LibreSilka/RobotFramework_Mobile" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+      <span>Android Studio</span>
+  </a>
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <span>Charles</span>  
-  <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="Robot Framework" alt="robotframework" width="40" height="40"/>
-  <span>Robot Framework</span>
+  <a href="https://github.com/LibreSilka/RobotFramework_Mobile" target="_blank">
+      <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="Robot Framework" alt="robotframework" width="40" height="40"/>
+      <span>Robot Framework</span>
+  </a>
 </div>
 
 
