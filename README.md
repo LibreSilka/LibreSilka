@@ -33,13 +33,15 @@
     <span>Git</span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" title="PyCharm" alt="pycharm" width="40" height="40"/>
     <span>PyCharm</span>
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="python" width="40" height="40"/>
-    <span>Python</span>
+    <a href="https://github.com/LibreSilka/unittest_crypto_screener" target="_blank">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="python" width="40" height="40"/>
+        <span>Python</span>
+    </a>
     <a href="https://github.com/LibreSilka/selenium_1st" target="_blank">
         <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="selenium" width="40" height="40"/>
         <span>Selenium</span>
     </a>
-    <a href="https://github.com/LibreSilka/selenium_1st" target="_blank">
+    <a href="https://github.com/LibreSilka/unittest_crypto_screener" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="Pytest" alt="pytest" width="40" height="40"/>
         <span>Pytest</span>
     </a>
@@ -110,6 +112,8 @@
 
 <div>
   <img src="https://static-00.iconduck.com/assets.00/database-sql-icon-917x1024-86yb52yu.png" title="sql" alt="sql" width="40" height="40"/>&nbsp
+  <span>SQL</span>
+
 </div>
 
 ---
