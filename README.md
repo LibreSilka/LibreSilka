@@ -86,6 +86,10 @@
     <span>Figma</span>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdquFCvcqtvGr7hy13gMFHLLcNaX32FOvXQ&s" title="allure" alt="allure" width="40" height="40"/>&nbsp
     <span>Allure</span>
+    <a href="https://docs.google.com/spreadsheets/d/1ZRP0AqqdmnkoLEmLLWC4evzl-nraAvLzW05CD2IDRwY/edit?usp=sharing" target="_blank">
+      <img src="https://images.sftcdn.net/images/t_app-icon-m/p/81b72e82-9a61-11e6-91b9-00163ec9f5fa/1872868276/google-sheets-logo" title="allure" alt="allure" width="40" height="40"/>&nbsp
+      <span>Test cases & Bug report</span>
+    </a>
   </div>
 </div>
 
