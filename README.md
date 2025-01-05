@@ -90,6 +90,10 @@
       <img src="https://images.sftcdn.net/images/t_app-icon-m/p/81b72e82-9a61-11e6-91b9-00163ec9f5fa/1872868276/google-sheets-logo" title="allure" alt="allure" width="40" height="40"/>&nbsp
       <span>Test cases & Bug report</span>
     </a>
+    <a href="https://github.com/LibreSilka/Mind_map_Testing_Algo" target="_blank">
+      <img src="https://play-lh.googleusercontent.com/nu11CuK_leCzc6ZXmM1Jy6_P3Pj9sgQE64IHIYaRcZ9klHHvIrqGEVGUOPl60FND0as=w240-h480-rw" title="allure" alt="allure" width="40" height="40"/>&nbsp
+      <span>STLC</span>
+    </a>
   </div>
 </div>
 
