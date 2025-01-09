@@ -11,7 +11,7 @@
 
 ---
 
-### 📋 My CV
+### 📋 <a href="https://github.com/LibreSilka/LibreSilka/blob/main/hrobostov_cv.pdf" target="_blank">My CV</a>
 
 ---
 ### 🤝 Social networks:
